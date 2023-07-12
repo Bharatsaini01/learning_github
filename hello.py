@@ -1,3 +1,3 @@
 a=23
 print(a)
-print("new repo")
+print("new repo git hub")
